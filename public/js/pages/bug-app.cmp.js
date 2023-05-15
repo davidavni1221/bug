@@ -37,6 +37,7 @@ export default {
   },
   created() {
     // kkk
+    
     this.loadBugs()
   },
   methods: {
