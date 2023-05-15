@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "gr2Y0",
+    "fullname": "Administrator",
+    "username": "admin",
+    "password": "admin",
+    "isAdmin": true
+  },
+  {
+    "_id": "OPkRH",
+    "fullname": "Meital",
+    "username": "meital.Tw",
+    "password": "m7a9h3s6",
+    "isAdmin": false
+  },
+  {
+    "_id": "5lW38",
+    "fullname": "Alexy",
+    "username": "Lexy.Lex",
+    "password": "mvfjf485",
+    "isAdmin": false
+  },
+  {
+    "_id": "wRZ7g",
+    "fullname": "sapir",
+    "username": "sapir",
+    "password": "123",
+    "isAdmin": false
+  },
+  {
+    "_id": "bOL9J",
+    "fullname": "ddd",
+    "username": "ssss",
+    "password": "eee",
+    "isAdmin": false
+  }
+]
